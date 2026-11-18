@@ -19,6 +19,6 @@ window.puzzleSettings = {
     embedUrl: "",
     height: 680,
   },
-  streamUrl: "",
+  streamUrl: "https://www.twitch.tv/puzzlella",
   contactUrl: "",
 };
